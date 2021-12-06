@@ -1,14 +1,14 @@
 {
-  "name": "LizaMwol",
+  "name": "PC-MEDIA",
   "version": "7.3.6",
-  "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkindepadayali with Baileys.",
-  "main": "./LIZA-MWOL/bot.js",
+  "description": "PC-MEDIA is the Modified Version of WhatsAsena, Made By @nidhalpc with Baileys.",
+  "main": "./PC-MEDIA/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chunkindepadayali/LIZA-MWOL.git"
+    "url": "git+https://github.com/nidhalpc/PC-MEDIA.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "Chunkindepadayali",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "author": "nidhalpc",
+  "developer": "@PC-MEDIA / @nidhalpc",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Chunkindepadayali/LIZA-MWOL/issues"
+    "url": "https://github.com/nidhalpc/PC-MEDIA/issues"
   },
-  "homepage": "https://github.com/Chunkindepadayali/LIZA-MWOL#readme",
+  "homepage": "https://github.com/nidhalpc/PC-MEDIA#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "@lh2020/speedtest-net": "^2.1.1",
