@@ -1,17 +1,17 @@
 {
-    "name": "Liza-Mwol",
-    "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkinde_padayali with Baileys.",
+    "name": "PC MEDIA ",
+    "description": "PC MEDIA is the Modified Version of WhatsAsena, Made By @PC NIDHAL with Baileys.",
     "logo": "https://i.imgur.com/2nYs8dN.jpg",
-    "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "website":   "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "success_url": "https://github.com/Chunkindepadayali/LIZA-MWOL",
+    "keywords": ["whatsapp", "userbot", "PC MEDIA", "WhatsAsena", "mwol", "bot", "ai"],
+    "repository": "https://github.com/nidhalpc/PC-MEDIA",
+    "website":   "https://github.com/nidhalpc/PC-MEDIA",
+    "success_url": "https://github.com/nidhalpc/PC-MEDIA",
     "stack": "container",
     "env": {
         "PC MEDIA_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
-        },
+     
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxx,0",
             "required": false
